@@ -1,8 +1,8 @@
 import s from "./App.module.css";
 
-import image01 from '/01.jpg'
-import image02 from '/02.jpg'
-import image03 from '/03.jpg'
+import image01 from '/01.webp'
+import image02 from '/02.webp'
+import image03 from '/03.webp'
 
 
 function App() {
